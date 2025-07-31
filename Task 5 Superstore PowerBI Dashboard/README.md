@@ -65,14 +65,14 @@ This project was completed as **Task 8** of the **Elevvo Data Internship Program
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
-- 📧 Email: abdurrahman82733@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/Abdur Rahman](https://www.linkedin.com/in/abdur-rahmanml/)
+-  Email: abdurrahman82733@gmail.com  
+-  LinkedIn: [linkedin.com/in/Abdur Rahman](https://www.linkedin.com/in/abdur-rahmanml/)
 
 ---
 
-## 📌 Credits
+##  Credits
 
 - Dataset: Superstore Sales Dataset (Kaggle/Public Domain)
 - Internship: [Elevvo](https://elevvo.tech/home) – Remote Data Internship Program 2025
